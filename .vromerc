@@ -1,0 +1,8 @@
+" set no status line -- i.e keys don't show as you type. enabled by default
+" set showstatus=0
+
+" Change external editor, default is GVim
+set editor=gvim -f
+
+" Disable Vrome in those sites, Multiple URLs can be separated with ','
+set disablesites=mail.google.com, drive.google.com, docs.google.com, https://www.google.com/calendar/

@@ -5,4 +5,4 @@
 set editor=gvim -f
 
 " Disable Vrome in those sites, Multiple URLs can be separated with ','
-set disablesites=mail.google.com, drive.google.com, docs.google.com, https://www.google.com/calendar/
+set disablesites=mail.google.com, drive.google.com, docs.google.com, www.google.com/calendar/, groups.google.com
